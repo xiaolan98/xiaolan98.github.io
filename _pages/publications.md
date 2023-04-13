@@ -18,7 +18,7 @@ author_profile: true
 
 ## 2020
 
-* <b>BDANN: BERT-Based Domain Adaptation Neural Network for Multi-Modal Fake News Detection/b>.<br>
+* <b>BDANN: BERT-Based Domain Adaptation Neural Network for Multi-Modal Fake News Detection</b>.<br>
 <b>Tong Zhang</b>, Di Wang, Huanhuan Chen, Zhiwei Zeng, Wei Guo, Chunyan Miao, Lizhen Cui
 <i>IEEE IJCNN 2020</i>.<br>
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9206973)
