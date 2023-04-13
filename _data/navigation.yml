@@ -3,8 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Blogs"
-    url: /blogs/    
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  #- title: "My Lab"
+  #  url: /lab/
+  
   - title: "CV"
-    url: /cv/
+    url: /cv/  
+
+  - title: "Blogs"
+    url: /year-archive/
