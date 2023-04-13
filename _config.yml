@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhang Tong"
 title_separator          : "-"
 name                     : &name "Zhang Tong"
-description              : &description "I'm a Ph.D candidate at the School of Computer Science and Engineering, Nanyang Technological University, supervised by Prof. Boyang Li. My research interests include dialogue system, explainable artificial intelligence, and natrual language processing."
+description              : &description "Ph.D. candidate, School of Computer Science and Engineering, Nanyang Technological University"
 url                      : https://xiaolan98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaolan98/xiaolan98.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhang Tong"
   avatar           : "profile.png"
-  bio              : "PhD candidate, School of Computer Science and Engineering, Nanyang Technological University"
+  bio              : "Ph.D. candidate, School of Computer Science and Engineering, Nanyang Technological University"
   location         : "Singapore"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0kHm9RcAAAAJ&hl=en"
