@@ -16,7 +16,7 @@ main:
   #  url: /lab/
   
   - title: "CV"
-    url: /cv/  
+    url: /cv_contact/  
 
-  - title: "Blogs"
-    url: /year-archive/
+#   - title: "Blogs"
+#     url: /year-archive/
