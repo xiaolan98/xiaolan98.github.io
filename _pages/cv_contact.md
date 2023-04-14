@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-permalink: /cv & contact/
+permalink: /cv_contact/
 author_profile: true
 ---
 
